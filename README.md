@@ -2,4 +2,4 @@
 
 ### Responsive Wireframe Template
 
-![draftui](https://user-images.githubusercontent.com/48885389/124543859-9e583000-de58-11eb-9887-fb7658186dfb.png)
+![draftui](https://user-images.githubusercontent.com/48885389/126644173-f5c91f04-2466-48ea-afa4-bb1aca29ca40.png)
